@@ -146,15 +146,9 @@ A web-based donation management platform built during my B.Tech.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=omspatil&theme=github_dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://img.shields.io/github/followers/omspatil?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/omspatil?label=Stars&style=for-the-badge&color=yellow&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/omspatil&label=Public%20Repos&query=public_repos&style=for-the-badge&color=success&logo=github&logoColor=white" />
 </p>
 
 ---
