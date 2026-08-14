@@ -1,18 +1,188 @@
-# 💫 About Me:
-🔭 I’m currently working on: Self Improvement <br><br>👯 I’m looking to collaborate on: Open source projects ,ML/AI-based innovative solutions<br><br>🤝 I’m looking for help with: Advanced Natural Language Processing techniques ,Building scalable ML applications<br><br>🌱 I’m currently learning: Django, React, Deep Learning, and backend integrations<br><br>💬 Ask me about: Python, MySQL, HTML, CSS, JavaScript, Machine Learning<br><br>⚡ Fun fact: I think I am funny 😄
+<h1 align="center">Hi 👋, I'm Om Patil</h1>
 
+<h3 align="center">Full-Stack Developer | Java & Spring Boot | Advanced Computing Student</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/samarthpatil2909/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-suhas-patil2909/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/ompatil2909) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthpatil1229@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Java+%2B+Spring+Boot+Engineer;Advanced+Computing+Student+at+CDAC;Building+FLEMAN+-+Fleet+%26+Rental+Management;Open+to+Full-Stack+%2F+Backend+Roles&center=true&width=600&height=45&font=Fira+Code&pause=1000&color=00F8AB&vCenter=true" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omspatil&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/omspatil">
+    <img src="https://komarev.com/ghpvc/?username=omspatil&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omspatil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💫 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Pursuing **PGCP-AC (Post Graduate Certificate in Advanced Computing)** at CDAC
+- 🚀 Currently building **FLEMAN**, a full-stack fleet & car rental management system (Java Spring Boot + React/TypeScript + MySQL) as my capstone project
+- 👯 Looking to collaborate on **open-source projects** and **ML/AI-based innovative solutions**
+- 🌱 Currently strengthening **Django, React, Deep Learning, and backend integrations**
+- 💬 Ask me about **Java, Spring Boot, Python, MySQL, JavaScript, and Machine Learning**
+- 🥾 Outside of code, you'll find me **trekking** or watching movies
+- ⚡ Fun fact: I think I am funny 😄
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/om-suhas-patil2909/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omspatil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://codepen.io/ompatil2909">
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<a href="mailto:samarthpatil1229@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+### 🗄️ Database & ORM
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+</p>
+
+### 🤖 Data Science & ML
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 FLEMAN — Fleet & Car Rental Management System
+
+A full-stack fleet and car rental management platform, built as my CDAC capstone project.
+
+**Tech:** Java Spring Boot, React + TypeScript, MySQL
+
+**Key Features:**
+- JWT-based stateless authentication with BCrypt and Google OAuth2
+- Layered Spring Boot architecture across 16 controllers and 46 REST endpoints
+- AOP-based logging for the Customer module
+- Custom rental pricing engine with a structured rate card
+- Large-scale seed data across 28 Indian states, multiple cities, hubs, and car types
+- Dockerized multi-stage build with health-checked Compose setup
+
+---
+
+### 🤝 NGO Donation Portal
+
+A web-based donation management platform built during my B.Tech.
+
+**Tech:** ASP.NET, SQL Server
+
+**Key Features:**
+- NGO and donation management
+- Database-driven application
+- User-friendly frontend
+- Donation-related data management
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=omspatil&theme=github_dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omspatil&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```text
+Java & Spring Boot
+        ↓
+React.js & TypeScript
+        ↓
+Django & Backend Integrations
+        ↓
+SQL & Database Design
+        ↓
+Deep Learning & NLP
+```
+
+---
+
+## 💬 Personal Philosophy
+
+> **"First, solve the problem. Then, write the code."**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
